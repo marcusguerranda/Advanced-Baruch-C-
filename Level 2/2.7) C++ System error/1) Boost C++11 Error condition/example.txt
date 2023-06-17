@@ -1,2 +1,0 @@
-Hello!
-This is an example for 2.7) of level 2, advanced c++!
